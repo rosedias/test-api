@@ -1,6 +1,11 @@
 {
-  "id": 2,
-  "name": "Ervin Howell",
-  "username": "Antonette",
-  "email": "Shanna@melissa.tv",
+  "users": [
+    {
+      "id": 1,
+      "name": "teste1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
